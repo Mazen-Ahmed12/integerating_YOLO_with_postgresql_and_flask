@@ -1,4 +1,21 @@
+# YOLO + PostgreSQL + Flask Integration
 
+Flask-based object detection app using YOLO and PostgreSQL. Includes REST endpoints for storing and querying results.
+
+## Features
+- YOLO detection
+- Flask API
+- PostgreSQL integration
+- Simple and effective
+
+## Tech Stack
+- YOLO (Ultralytics)
+- Flask
+- PostgreSQL
+- Python
+
+## Use Case
+Ideal for small-scale deployments and educational demos.
 
 ## Installation & Launch
 
